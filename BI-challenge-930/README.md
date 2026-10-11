@@ -7,3 +7,6 @@
 ### expected answer
 
 ![alt text](image-1.png)
+
+For the purpose of using VS Code the initial data was exported to a CSV file.  The solution was originally performed in Excel so the python code was copied to an ipynb file
+
